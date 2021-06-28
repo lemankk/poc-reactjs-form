@@ -1,0 +1,23 @@
+[
+  {
+    "accountIdentifier": "ASDFASDASDASDASDA1",
+    "accountNo": "012-345678-912",
+    "currency": "HKD",
+    "balance": "12,345.00",
+    "accountType": "SAVING"
+  },
+  {
+    "accountIdentifier": "ASDFASDASDASDASDA2",
+    "accountNo": "012-345678-913",
+    "currency": "HKD",
+    "balance": "123.00",
+    "accountType": "SAVING"
+  },
+  {
+    "accountIdentifier": "ASDFASDASDASDASDA3",
+    "accountNo": "012-345678-913",
+    "currency": "USD",
+    "balance": "123.00",
+    "accountType": "SAVING"
+  }
+]

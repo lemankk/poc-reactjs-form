@@ -1,0 +1,23 @@
+[
+  {
+    "label": "HKD",
+    "identifier": "HKD",
+    "symbol": "$"
+  },
+  {
+    "label": "CNY",
+    "identifier": "CNY",
+    "symbol": "$"
+  },
+  {
+    "label": "USD",
+    "identifier": "USD",
+    "symbol": "$"
+  },
+  {
+    "label": "JPY",
+    "identifier": "JPY",
+    "symbol": "￥",
+    "allow_decimal": false
+  }
+]
